@@ -1,0 +1,283 @@
+/* Medium devices (desk, 1200px and up) */
+
+@media (max-width: 1200px) {}
+
+
+/* Medium devices (tablets, 768px and up) */
+
+@media (max-width: 1024px) {
+    .back-bac-cl {
+        padding: 25px 0;
+    }
+    .dumhandi-logo img {
+        max-width: 160px;
+    }
+    .dum-banner h1 {
+        font-size: 23px;
+    }
+    .dum-banner h2 {
+        margin-top: 14px;
+        font-size: 24px;
+    }
+    .dumhandi_app {
+        max-width: 100%;
+    }
+    .dumhandi_app h3 {
+        text-align: left;
+    }
+    .dumhandi_app h2 {
+        font-size: 12px;
+        text-align: center;
+        margin: 20px 0;
+        padding: 7px 8px;
+    }
+    .dumhandi_app img {
+        max-width: 30px;
+    }
+    .dum-left-soto {
+        text-align: center;
+        display: inline-flex;
+    }
+    .dum-left-soto span {
+        margin: 0 8px;
+    }
+    .dum-left-soto img {
+        max-width: 150px;
+    }
+    .foot-tops {
+        padding: 30px 0;
+        margin-top: 30px;
+    }
+    .footer-dum .power-by-dn p {
+        font-size: 12px;
+    }
+    .footer-dum-handi h3 {
+        font-size: 18px;
+        margin-bottom: 10px;
+        padding-top: 15px;
+    }
+}
+
+
+/* Large devices (desktops, 992px and up) */
+
+@media (max-width: 992px) {
+    .back-bac-cl {
+        padding: 25px 0;
+    }
+    .dumhandi-logo img {
+        max-width: 160px;
+    }
+    .dum-banner h1 {
+        font-size: 23px;
+    }
+    .dum-banner h2 {
+        margin-top: 14px;
+        font-size: 24px;
+    }
+    .dumhandi_app {
+        max-width: 100%;
+    }
+    .dumhandi_app h3 {
+        text-align: left;
+    }
+    .dumhandi_app h2 {
+        font-size: 12px;
+        text-align: center;
+        margin: 20px 0;
+        padding: 7px 8px;
+    }
+    .dumhandi_app img {
+        max-width: 30px;
+    }
+    .dum-left-soto {
+        text-align: center;
+        display: inline-flex;
+    }
+    .dum-left-soto span {
+        margin: 0 8px;
+    }
+    .dum-left-soto img {
+        max-width: 150px;
+    }
+    .foot-tops {
+        padding: 30px 0;
+        margin-top: 30px;
+    }
+    .footer-dum .power-by-dn p {
+        font-size: 12px;
+    }
+    .footer-dum-handi h3 {
+        font-size: 18px;
+        margin-bottom: 10px;
+        padding-top: 15px;
+    }
+}
+
+
+/* Large devices (desktops, 768px and up) */
+
+@media (max-width: 768px) {
+    .back-bac-cl {
+        padding: 25px 0;
+    }
+    .dumhandi-logo img {
+        max-width: 160px;
+    }
+    .dum-banner h1 {
+        font-size: 23px;
+    }
+    .dum-banner h2 {
+        margin-top: 14px;
+        font-size: 24px;
+    }
+    .dumhandi_app {
+        max-width: 100%;
+    }
+    .dumhandi_app h3 {
+        text-align: left;
+    }
+    .dumhandi_app h2 {
+        font-size: 12px;
+        text-align: center;
+        margin: 20px 0;
+        padding: 7px 8px;
+    }
+    .dumhandi_app img {
+        max-width: 30px;
+    }
+    .dum-left-soto {
+        text-align: center;
+        display: inline-flex;
+    }
+    .dum-left-soto span {
+        margin: 0 8px;
+    }
+    .dum-left-soto img {
+        max-width: 150px;
+    }
+    .foot-tops {
+        padding: 30px 0;
+        margin-top: 30px;
+    }
+    .footer-dum .power-by-dn p {
+        font-size: 12px;
+    }
+    .footer-dum-handi h3 {
+        font-size: 18px;
+        margin-bottom: 10px;
+        padding-top: 15px;
+    }
+}
+
+
+/* Extra large devices ( desktops, 440px and up) */
+
+@media (max-width: 414px) {
+    .back-bac-cl {
+        padding: 25px 0;
+    }
+    .dumhandi-logo img {
+        max-width: 150px;
+    }
+    .dum-banner h1 {
+        font-size: 23px;
+    }
+    .dum-banner h2 {
+        margin-top: 14px;
+        font-size: 24px;
+    }
+    .dumhandi_app {
+        max-width: 100%;
+    }
+    .dumhandi_app h3 {
+        text-align: left;
+    }
+    .dumhandi_app h2 {
+        font-size: 12px;
+        text-align: center;
+        margin: 20px 0;
+        padding: 7px 8px;
+    }
+    .dumhandi_app img {
+        max-width: 30px;
+    }
+    .dum-left-soto {
+        text-align: center;
+        display: inline-flex;
+    }
+    .dum-left-soto span {
+        margin: 0 8px;
+    }
+    .dum-left-soto img {
+        max-width: 158px;
+    }
+    .foot-tops {
+        padding: 30px 0;
+        margin-top: 30px;
+    }
+    .footer-dum .power-by-dn p {
+        font-size: 12px;
+    }
+    .footer-dum-handi h3 {
+        font-size: 18px;
+        margin-bottom: 10px;
+        padding-top: 15px;
+    }
+}
+
+
+/* Extra large devices (large desktops, 360px and up) */
+
+@media (max-width: 360px) {
+    .back-bac-cl {
+        padding: 25px 0;
+    }
+    .dumhandi-logo img {
+        max-width: 160px;
+    }
+    .dum-banner h1 {
+        font-size: 23px;
+    }
+    .dum-banner h2 {
+        margin-top: 14px;
+        font-size: 24px;
+    }
+    .dumhandi_app {
+        max-width: 100%;
+    }
+    .dumhandi_app h3 {
+        text-align: left;
+    }
+    .dumhandi_app h2 {
+        font-size: 12px;
+        text-align: center;
+        margin: 20px 0;
+        padding: 7px 8px;
+    }
+    .dumhandi_app img {
+        max-width: 30px;
+    }
+    .dum-left-soto {
+        text-align: center;
+        display: inline-flex;
+    }
+    .dum-left-soto span {
+        margin: 0 8px;
+    }
+    .dum-left-soto img {
+        max-width: 150px;
+    }
+    .foot-tops {
+        padding: 30px 0;
+        margin-top: 30px;
+    }
+    .footer-dum .power-by-dn p {
+        font-size: 12px;
+    }
+    .footer-dum-handi h3 {
+        font-size: 18px;
+        margin-bottom: 10px;
+        padding-top: 15px;
+    }
+}
